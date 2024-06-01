@@ -17,6 +17,13 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
       "This website is a for a Gym to help with their Sales Marketing.",
     GymGithub: "https://github.com/kvskmurty2802/Gym_Website_TailwindCSS.git",
     GymWebsite: "",
+
+    APIDesc:
+      "This Website is Developed with TheMovieDB API.",
+    APIGithub: "https://github.com/kvskmurty2802/TheMovieDB.git",
+    APIWebsite: "https://themoviedb-sigma.vercel.app/",
+
+
   };
 
   return (
