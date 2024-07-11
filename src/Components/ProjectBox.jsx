@@ -4,24 +4,24 @@ import { CgFileDocument } from "react-icons/cg";
 
 const ProjectBox = ({ projectPhoto, projectName }) => {
   const desc = {
-    PhoenixDesc:"This Phoenix website helps you find used products. A B.Tech group project that enhanced my understanding of API functionality.",
+    PhoenixDesc:"This Phoenix website helps you find used products. A B.Tech group project that enhanced my understanding of TMDB functionality.",
     PhoenixGithub: "https://github.com/parth-1711/WBD-Project.git",
     PhoenixWebsite: "https://wbd-project-g9tong9om-parth1711s-projects.vercel.app/",
 
     DummyJsonDesc:
       "This website helps me in Understanding JSON Structure: Learn to create and manage JSON data effectively with objects, arrays, and key-value pairs. Data Handling Fetch, parse, and dynamically display JSON using JavaScript and web technologies",
-    DummyJsonGithub: "https://github.com/kvskmurty2802/DummyJson-API.git",
-    DummyJsonWebsite: "https://dummy-json-api-eight.vercel.app/",
+    DummyJsonGithub: "https://github.com/kvskmurty2802/DummyJson-TMDB.git",
+    DummyJsonWebsite: "https://dummy-json-TMDB-eight.vercel.app/",
 
-    GymDesc:
-      "This website is a for a Gym to help with their Sales Marketing.",
-    GymGithub: "https://github.com/kvskmurty2802/Gym_Website_TailwindCSS.git",
-    GymWebsite: "",
+    WeatherDesc:
+      "An Awesome Web Application powered by the OpenWeather TMDB to fetch Weather Data.",
+    WeatherGithub: "https://github.com/kvskmurty2802/Weather_Page.git",
+    WeatherWebsite: "https://weather-page-eight.vercel.app/",
 
-    APIDesc:
+    TMDBDesc:
       "This Website is Developed with TheMovieDB API.",
-    APIGithub: "https://github.com/kvskmurty2802/TheMovieDB.git",
-    APIWebsite: "https://themoviedb-sigma.vercel.app/",
+    TMDBGithub: "https://github.com/kvskmurty2802/TheMovieDB.git",
+    TMDBWebsite: "https://themoviedb-sigma.vercel.app/",
 
 
   };
