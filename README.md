@@ -7,7 +7,7 @@ An Awesome Web Application showcasing my Projects and Skills.
 
 This web application serves as a portfolio to display my projects, skills, and contact information. It provides visitors with an overview of my work, including project descriptions, links to live demos, and source code repositories.
 
-Visit the deployed page at [Portfolio Page](https://weather-page-eight.vercel.app/) to see the live application in action.
+Visit the deployed page at [Portfolio Page](https://portfolio-page-nu-two.vercel.app/) to see the live application in action.
 For the code, visit GitHub at [Portfolio Page](https://github.com/kvskmurty2802/Portfolio_Page.git).
 
 
@@ -38,7 +38,7 @@ For the code, visit GitHub at [Portfolio Page](https://github.com/kvskmurty2802/
    git clone https://github.com/kvskmurty2802/Portfolio_Page.git
 2. Navigate into the project directory:
    ```bash
-    cd WeatherPage
+    cd Portfolio_Page
 3. Install dependencies:
    ```bash
     npm install

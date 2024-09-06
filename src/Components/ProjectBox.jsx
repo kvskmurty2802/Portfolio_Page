@@ -11,7 +11,7 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
     DummyJsonDesc:
       "This website helps me in Understanding JSON Structure: Learn to create and manage JSON data effectively with objects, arrays, and key-value pairs. Data Handling Fetch, parse, and dynamically display JSON using JavaScript and web technologies",
     DummyJsonGithub: "https://github.com/kvskmurty2802/DummyJson-TMDB.git",
-    DummyJsonWebsite: "https://dummy-json-TMDB-eight.vercel.app/",
+    DummyJsonWebsite: "https://dummy-json-api-eight.vercel.app/",
 
     WeatherDesc:
       "An Awesome Web Application powered by the OpenWeather TMDB to fetch Weather Data.",
@@ -21,9 +21,17 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
     TMDBDesc:
       "This Website is Developed with TheMovieDB API.",
     TMDBGithub: "https://github.com/kvskmurty2802/TheMovieDB.git",
-    TMDBWebsite: "https://themoviedb-sigma.vercel.app/",
+    TMDBWebsite: "https://themoviedb-wine.vercel.app/",
 
-
+    PokeApiDesc:
+    "This Website is Developed with PokeApi.",
+    PokeApiGithub: "https://github.com/kvskmurty2802/PokeAPI-Integration",
+    PokeApiWebsite: "https://pokeapi-integration.vercel.app/",
+    
+    NetflixDesc:
+    "This Website is Developed with PokeApi.",
+    NetflixGithub: "https://github.com/kvskmurty2802/Netflix_Clone",
+    NetflixWebsite: "",
   };
 
   return (
