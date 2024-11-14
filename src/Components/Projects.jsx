@@ -6,6 +6,7 @@ import WeatherImage from "../images/Weather.png";
 import TMDBImage from "../images/TMDB.png"
 import Netflix from "../images/Netflix.png"
 import Poke from "../images/PokeAPI.png"
+import Task from "../images/Task.png"
 
 const Projects = () => {
   return (
@@ -17,6 +18,7 @@ const Projects = () => {
         <ProjectBox projectPhoto={TMDBImage} projectName="TMDB" />
         <ProjectBox projectPhoto={WeatherImage} projectName="Weather" />
         <ProjectBox projectPhoto={Netflix} projectName="Netflix" />
+        <ProjectBox projectPhoto={Task} projectName="Task" />
         <ProjectBox projectPhoto={Poke} projectName="PokeApi" />
         <ProjectBox projectPhoto={DummyJson} projectName="DummyJson" />
         <ProjectBox projectPhoto={PhoenixImage} projectName="Phoenix" />

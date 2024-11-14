@@ -18,6 +18,11 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
     WeatherGithub: "https://github.com/kvskmurty2802/Weather_Page.git",
     WeatherWebsite: "https://weather-page-eight.vercel.app/",
 
+    TaskDesc:
+      "This Website is Developed with TheMovieDB API.",
+    TaskGithub: "https://github.com/kvskmurty2802/React-Task-Manager",
+    TaskWebsite: "https://react-task-manager-liart.vercel.app/",
+
     TMDBDesc:
       "This Website is Developed with TheMovieDB API.",
     TMDBGithub: "https://github.com/kvskmurty2802/TheMovieDB.git",
@@ -29,7 +34,7 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
     PokeApiWebsite: "https://pokeapi-integration.vercel.app/",
     
     NetflixDesc:
-    "This Website is Developed with PokeApi.",
+    "This Website is Netflix CLone.",
     NetflixGithub: "https://github.com/kvskmurty2802/Netflix_Clone",
     NetflixWebsite: "",
   };
